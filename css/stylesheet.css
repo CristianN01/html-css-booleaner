@@ -30,11 +30,55 @@ body{
     color: #828282;
 }
 
-.img{
-    display: inline-block;
-}
+
 
 .photo-inf{
     font-size: 10px;
+}
+
+.imp-text{
+    background-color: yellow;
+}
+
+.titoli{
+    background-color: #20a9e5;
+    border: none;
+    border: collapse;
+    
+}
+
+.white{
+    color: white;
+    border: none;
+    border: collapse;
+    
+}
+.first-raw{
+    background-color: #b1e5f2;
+    border: none;
+    border: collapse;
+}
+
+.second-raw{
+    border: none;
+    border: collapse;
+}
+
+.third-raw{
+    background-color: #b1e5f2;
+    border: none;
+    border: collapse;
+}
+
+th{
+    border: none;
+}
+
+td{
+    border: none;
+}
+
+.imp-title{
+    color: #828282;
 }
 
