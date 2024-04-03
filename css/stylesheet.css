@@ -82,3 +82,34 @@ td{
     color: #828282;
 }
 
+img{
+    
+}
+.image-container{
+    position: relative;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    
+    
+    
+    
+    
+}
+
+.text-container{
+    color:white ;
+}
+    
+.image-container-second{
+    background-image: url(../img/graph.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    display: inline-block;
+    
+}
+
+footer{
+    height: 1000px;
+}
+
+
