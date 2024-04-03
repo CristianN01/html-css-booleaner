@@ -40,6 +40,13 @@ body{
     background-color: yellow;
 }
 
+.table{
+    border-collapse: collapse;
+}
+
+
+
+
 .titoli{
     background-color: #20a9e5;
     border: none;
@@ -50,7 +57,7 @@ body{
 .white{
     color: white;
     border: none;
-    border: collapse;
+    
     
 }
 .first-raw{
@@ -70,13 +77,6 @@ body{
     border: collapse;
 }
 
-th{
-    border: none;
-}
-
-td{
-    border: none;
-}
 
 .imp-title{
     color: #828282;
